@@ -1,9 +1,10 @@
 # game-rexscape
-Jogo criado para a disciplina de Prática de Organização e Arquitetura de Computadores.
+<p>Game created with assembly language for the ICMC processor, during the discipline of Organization and Computer Architecture.</p>
 
-Nomes:<br>
-  Caio Augusto Duarte Basso <br>
-  Gabriel Garcia Lorencetti <br>
-  Giovana Daniele da Silva  <br>
-  Luana Balador Belisario <br>
-  
+<p><strong>Made by:</strong></p>
+<ul>
+  <li>Caio Augusto Duarte Basso</li>
+  <li>Gabriel Garcia Lorencetti</li>
+  <li>Giovana Daniele da Silva</li>
+  <li>Luana Balador Belisario</li>
+</ul>
